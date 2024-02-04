@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+## Welcome to SURYA's Hotstar project README page
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -90,7 +90,7 @@
   <h2 id="installation">Installation</h2>
   <ol>
     <li><strong>Clone the repository:</strong></li>
-    <pre><code>git clone https://github.com/your-username/hotstar-clone.git</code></pre>
+    <pre><code>git clone https://github.com/chaudharysurya14/Hotstar-Terraform-project.git</code></pre>
 
     <li><strong>Navigate to the project directory:</strong></li>
     <pre><code>cd hotstar-clone</code></pre>
